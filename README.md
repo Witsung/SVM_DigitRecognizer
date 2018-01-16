@@ -1,4 +1,4 @@
-# DigitRecognizer_SVM
+# SVM_DigitRecognizer
 
 This is a beginer's level machine learning competition in kaggle. The train and test data can be download from the links below.
 https://www.kaggle.com/c/digit-recognizer/data
